@@ -1,6 +1,7 @@
 # Modul Praktikum - Minggu 02 - Pengantar
 
 Dosen Pengampu : **Arif Wicaksono Septyanto, S.Kom, M.Kom**
+
 Asisten Dosen : **Rifki Anashirul & Zidane Alfarizi**
 
 Pada modul praktikum ini, kita akan mempelajari tentang PHP framework Laravel,
